@@ -1,0 +1,41 @@
+.card {
+    &:hover {
+        .img {
+            transition: 0.75s;
+            transform: scale(1.3);
+        }
+    }
+    &:not(:hover) {
+        .img {
+            transition: 0.75s;
+            transform: scale(1);
+        }
+    }
+}
+.ais-SearchBox {
+    width: 50%;
+    margin-bottom: 3vh;
+    margin-top: 1vh;
+}
+.ais-Pagination-list {
+    justify-content: center;
+} 
+.ais-Pagination-item--selected .ais-Pagination-link {
+    color: #fff !important; 
+    background-color: #0096db !important;
+    border-color: #0096db !important;
+}
+.ais-Pagination-link {
+    padding: 0.3rem 0.6rem !important;
+    display: block !important;
+    border: 1px solid #c4c8d8 !important;
+    border-radius: 5px !important;
+    -webkit-transition: background-color 0.2s ease-out !important;
+    transition: background-color 0.2s ease-out !important;
+}
+.ais-Pagination-link:hover {
+    background-color: #e3e5ec !important;
+}
+.ais-Pagination-item + .ais-Pagination-item {
+    margin-left: 0.3rem;
+}

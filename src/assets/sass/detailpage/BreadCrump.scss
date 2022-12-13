@@ -1,0 +1,27 @@
+.background-breadcrump{
+    background-color: #EFF1F2;
+    width: 100%;
+}
+
+.breadcrump{
+    padding: 50px 0;
+
+    h1{
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .breadcrump-item {
+        *{
+            margin-right: 10px;
+        }
+
+        .pointer{
+            font-weight: lighter;
+        }
+
+        small.active{
+            font-weight: bold;
+        }
+    }
+}

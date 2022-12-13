@@ -1,0 +1,282 @@
+[
+    {
+        "id": "KN1PgmAVibaq10JtdqIc",
+        "address": "74 Bạch Đằng, Quy Nhơn, Bình Định",
+        "area": 20,
+        "comments": [
+            {
+                "author_id": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+                "comment": "nhà đẹp quá anh ơi",
+                "date": "__Timestamp__2022-07-29T02:39:59.498Z",
+                "img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s96-c",
+                "name": "Huỳnh Nguyễn Ngọc Hải"
+            },
+            {
+                "author_id": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+                "comment": "pềct",
+                "date": "__Timestamp__2022-07-29T02:44:09.546Z",
+                "img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s96-c",
+                "name": "Huỳnh Nguyễn Ngọc Hải"
+            },
+            {
+                "author_id": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+                "comment": "ty",
+                "date": "__Timestamp__2022-07-29T03:17:54.972Z",
+                "img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s96-c",
+                "name": "Huỳnh Nguyễn Ngọc Hải"
+            },
+            {
+                "author_id": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+                "comment": "abc",
+                "date": "__Timestamp__2022-07-29T03:17:54.972Z",
+                "img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s96-c",
+                "name": "Huỳnh Nguyễn Ngọc Hải"
+            },
+            {
+                "author_id": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+                "comment": "test 5",
+                "date": "__Timestamp__2022-07-29T03:20:12.875Z",
+                "img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s96-c",
+                "name": "Huỳnh Nguyễn Ngọc Hải"
+            },
+            {
+                "author_id": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+                "comment": "test 6",
+                "date": "__Timestamp__2022-07-29T03:52:33.998Z",
+                "img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s96-c",
+                "name": "Huỳnh Nguyễn Ngọc Hải"
+            },
+            {
+                "author_id": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+                "comment": "",
+                "date": "__Timestamp__2022-08-08T02:23:18.748Z",
+                "img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s96-c",
+                "name": "Huỳnh Nguyễn Ngọc Hải"
+            }
+        ],
+        "createdAt": "__Timestamp__2022-07-11T17:00:00.783Z",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia.",
+        "detailsummary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+        "image": [
+            "https://fukacovn.com/wp-content/uploads/2021/01/e967b3cdd0e947fe351be726e80f9001-1024x683.jpg",
+            "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-1.jpg",
+            "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-4.jpg"
+        ],
+        "latitude": 13.776067294591897,
+        "longitude": 109.23601866833971,
+        "name": "Nhà 74 Bạch Đằng",
+        "price": 500000,
+        "user_img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s83-c-mo",
+        "user_name": "Huỳnh Nguyễn Ngọc Hải",
+        "user_phone": "+84905728441",
+        "user_uid": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+        "view": 59
+    },
+    {
+        "id": "Kmnzl70fCEMcqR824cky",
+        "address": "phuoc thuan tuy phuoc",
+        "area": 678,
+        "comments": [],
+        "createdAt": "__Timestamp__2022-07-27T08:25:54.723Z",
+        "description": "abcdef",
+        "detailsummary": "abcdef",
+        "image": [
+            "https://firebasestorage.googleapis.com/v0/b/rent-house-356307.appspot.com/o/uploads%2Fimages%2FKmnzl70fCEMcqR824cky%2Fartist%20100.jpg?alt=media&token=6f5dbcce-ad87-4f50-9327-f5937b5fb393",
+            "https://firebasestorage.googleapis.com/v0/b/rent-house-356307.appspot.com/o/uploads%2Fimages%2FKmnzl70fCEMcqR824cky%2Fhot%20100.jpg?alt=media&token=aef5aa52-7627-4a26-8847-9e8c34cb0491",
+            "https://firebasestorage.googleapis.com/v0/b/rent-house-356307.appspot.com/o/uploads%2Fimages%2FKmnzl70fCEMcqR824cky%2Fbillboard%20200.jpg?alt=media&token=439e833b-d8a5-4d76-b2ef-1a3f095a2cce"
+        ],
+        "latitude": 0,
+        "longitude": 0,
+        "name": "test 345",
+        "price": 50000000,
+        "user_img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s96-c",
+        "user_name": "Huỳnh Nguyễn Ngọc Hải",
+        "user_phone": "+84905728441",
+        "user_uid": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+        "view": 2
+    },
+    {
+        "id": "PzLVIbbntOhR0XU7ZcHJ",
+        "address": "76 Trần Hưng Đạo, Quy Nhơn, Bình Định",
+        "area": 70,
+        "comments": [],
+        "createdAt": "__Timestamp__2022-06-30T17:00:00.588Z",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia.",
+        "detailsummary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+        "image": [
+            "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-9.jpg",
+            "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-10.jpg",
+            "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-11.jpg"
+        ],
+        "latitude": 13.77376498268698,
+        "longitude": 109.24098405643184,
+        "name": "Altara Serviced Residences",
+        "price": 4500000,
+        "user_img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s83-c-mo",
+        "user_name": "Huỳnh Nguyễn Ngọc Hải",
+        "user_phone": "+84905728441",
+        "user_uid": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+        "view": 102
+    },
+    {
+        "id": "kggExBnR5asPwd0XLih6",
+        "address": "64 Bạch Đằng, Quy Nhơn, Bình Định",
+        "area": 70,
+        "comments": [],
+        "createdAt": "__Timestamp__2022-06-15T17:00:00.202Z",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia.",
+        "detailsummary": "Gần chợ, gần trường học, gần bệnh viện, view thế giới",
+        "image": [
+            "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien4-1.jpg",
+            "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien1-1.jpg",
+            "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien2-2.jpg"
+        ],
+        "latitude": 13.77584073525059,
+        "longitude": 109.2365572260115,
+        "name": "Biệt phủ 64 Bạch Đằng",
+        "price": 3000000,
+        "user_img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s83-c-mo",
+        "user_name": "Huỳnh Nguyễn Ngọc Hải",
+        "user_phone": "+84905728441",
+        "user_uid": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+        "view": 41
+    },
+    {
+        "id": "oE5WEyxBWjWRNwt7R3AC",
+        "address": "02 Nguyễn Văn Trỗi, Quy Nhơn, Bình Định",
+        "area": 400,
+        "comments": [],
+        "createdAt": "__Timestamp__2022-07-01T17:00:00.532Z",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia.",
+        "detailsummary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+        "image": [
+            "https://happynest.vn/storage/uploads/2019/12/603d5136018848a2811c8007801e1b2b.jpg",
+            "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-5.jpg",
+            "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-6.jpg"
+        ],
+        "latitude": 13.763510222157414,
+        "longitude": 109.21950832408425,
+        "name": "Villa Nguyễn văn Trỗi",
+        "price": 50000000,
+        "user_img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s83-c-mo",
+        "user_name": "Huỳnh Nguyễn Ngọc Hải",
+        "user_phone": "+84905728441",
+        "user_uid": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+        "view": 19
+    },
+    {
+        "id": "uGBXsQdbc2cgodIg5rGW",
+        "address": "Phước Thuận, Tuy Phước, Bình Định",
+        "area": 50,
+        "comments": [],
+        "createdAt": "__Timestamp__2022-07-24T17:00:00.194Z",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia.",
+        "detailsummary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+        "image": [
+            "https://happynest.vn/storage/uploads/2019/12/29a692c25c6806a0920a2316bfdab3e3.jpg",
+            "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-7.jpg",
+            "http://landtoday.net/files/1970/01/01/10-biet-thu-nghi-duong-dat-nhat-the-gioi-8.jpg"
+        ],
+        "latitude": 13.832948379076019,
+        "longitude": 109.18951478372112,
+        "name": "Nhà lá",
+        "price": 300000,
+        "user_img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s83-c-mo",
+        "user_name": "Huỳnh Nguyễn Ngọc Hải",
+        "user_phone": "+84905728441",
+        "user_uid": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+        "view": 40
+    },
+    {
+        "id": "uUz7Z8sV3JvWmsFdOlPs",
+        "address": "Nhà thờ làng sông, Bình Định",
+        "area": 250,
+        "comments": [],
+        "createdAt": "__Timestamp__2022-05-19T17:00:00.321Z",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce egestas tortor sit amet libero aliquet sagittis. Nam vel aliquam felis. Phasellus rhoncus eros quis lacus bibendum fringilla. Cras ultrices a massa non feugiat. Quisque rhoncus massa lobortis mauris congue molestie. Ut id nulla arcu. Mauris convallis eros erat, et consequat odio efficitur non. Maecenas at molestie felis. Cras eu ornare felis. Donec molestie ut mi sed eleifend.",
+        "detailsummary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+        "image": [
+            "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien4-1.jpg",
+            "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien1-1.jpg",
+            "https://mocfun.net/uploads/news/2018_07/biet-thu-thiet-ke-theo-tan-co-dien2-2.jpg"
+        ],
+        "latitude": 13.821064981837104,
+        "longitude": 109.19879887786317,
+        "name": "Biệt phủ Phước Thuận",
+        "price": 1000000000,
+        "user_img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s83-c-mo",
+        "user_name": "Huỳnh Nguyễn Ngọc Hải",
+        "user_phone": "+84905728441",
+        "user_uid": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+        "view": 21
+    },
+    {
+        "id": "uXgtNAPAxZjFiEji2AaX",
+        "address": "527 Đống Đa, Quy Nhơn, Bình Định",
+        "area": 70,
+        "comments": [],
+        "createdAt": "__Timestamp__2022-07-03T17:00:00.553Z",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia.",
+        "detailsummary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+        "image": [
+            "https://img4.thuthuatphanmem.vn/uploads/2020/12/17/hinh-anh-noi-that-nha-dep_103830177.jpg",
+            "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-noi-that-dep_052104700.png",
+            "https://img4.thuthuatphanmem.vn/uploads/2020/12/26/anh-noi-that-phong-ngu_052105459.png"
+        ],
+        "latitude": 13.781509904823833,
+        "longitude": 109.23382788896782,
+        "name": "Khách sạn Đào Tiên",
+        "price": 4500000,
+        "user_img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s83-c-mo",
+        "user_name": "Huỳnh Nguyễn Ngọc Hải",
+        "user_phone": "+84905728441",
+        "user_uid": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+        "view": 13
+    },
+    {
+        "id": "viyfnGf0EeyE77A1ZfQy",
+        "address": "phuoc thuan binh dinh",
+        "area": 123,
+        "comments": [],
+        "createdAt": "__Timestamp__2022-07-27T08:21:03.692Z",
+        "description": "acdef",
+        "detailsummary": "abcdef",
+        "image": [
+            "https://firebasestorage.googleapis.com/v0/b/rent-house-356307.appspot.com/o/uploads%2Fimages%2FviyfnGf0EeyE77A1ZfQy%2Fbillboard%20200.jpg?alt=media&token=255778e7-4262-4391-86d1-86ca0c92272a",
+            "https://firebasestorage.googleapis.com/v0/b/rent-house-356307.appspot.com/o/uploads%2Fimages%2FviyfnGf0EeyE77A1ZfQy%2Fartist%20100.jpg?alt=media&token=9b28a564-8073-41fe-845a-44f1cf80bd91",
+            "https://firebasestorage.googleapis.com/v0/b/rent-house-356307.appspot.com/o/uploads%2Fimages%2FviyfnGf0EeyE77A1ZfQy%2Fhot%20100.jpg?alt=media&token=66bbbfae-ef3c-42dc-b481-4f5c3545d7c3"
+        ],
+        "latitude": 0,
+        "longitude": 0,
+        "name": "Royal Club",
+        "price": 1000000,
+        "user_img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s96-c",
+        "user_name": "Huỳnh Nguyễn Ngọc Hải",
+        "user_phone": "+84905728441",
+        "user_uid": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+        "view": 0
+    },
+    {
+        "id": "vvd5VY44euGPWKcNuUEj",
+        "address": "02 Nguyễn Huệ ,Quy Nhơn, Bình Định",
+        "area": 70,
+        "comments": [],
+        "createdAt": "__Timestamp__2022-06-24T17:00:00.385Z",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, exercitationem! Quidem minima architecto distinctio, qui autem ipsam. Quis corporis molestiae repudiandae rerum veniam doloribus ipsam illum perspiciatis eius unde maxime odit atque, exercitationem optio. Iste aspernatur non recusandae. Illo corporis adipisci eaque facere eligendi ullam fuga omnis tempora architecto recusandae, beatae quaerat qui? Expedita fugiat consequatur odio exercitationem veniam quam odit quidem saepe blanditiis magni minima distinctio optio doloribus molestias, asperiores praesentium earum. Ex vel ad iure aliquam sunt voluptatem maxime dolorem voluptate repudiandae veritatis nesciunt, ullam enim deserunt odio amet corrupti! At dolorem nemo saepe omnis est in officia.",
+        "detailsummary": "Đầy đủ nội thất, sân vườn cò bay thẳng cánh, có cầu trượt trong phòng ngủ",
+        "image": [
+            "https://happynest.vn/storage/uploads/2019/12/ce97ebbeb16b57f2168ae1db01bfd1e1.jpg",
+            "https://happynest.vn/storage/uploads/2019/12/8fea1b539390158a6ddf12505cf07b77.jpg",
+            "https://happynest.vn/storage/uploads/2019/12/c979bcbd31cfd1dbb8063e1d844ba9ae.jpg"
+        ],
+        "latitude": 13.772731525757933,
+        "longitude": 109.24265029712896,
+        "name": "Lâu đài cô Duyên",
+        "price": 37000000,
+        "user_img": "https://lh3.googleusercontent.com/a/AItbvml4-N6b51EHoXiLaRcJn7j3319VAx0cFRI8G0N6=s83-c-mo",
+        "user_name": "Huỳnh Nguyễn Ngọc Hải",
+        "user_phone": "+84905728441",
+        "user_uid": "2IBxczAfZuWLVsYUoR5MQ8NofmI3",
+        "view": 5
+    }
+]

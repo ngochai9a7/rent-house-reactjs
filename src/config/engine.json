@@ -1,0 +1,33 @@
+{
+  "engineName": "houses-search",
+  "endpointBase": "https://rent-house.ent.us-east-2.aws.elastic-cloud.com",
+  "searchKey": "search-a8cbn6u7yovbsk33akztgmgm",
+  "resultFields": [
+    "area",
+    "image",
+    "address",
+    "comments",
+    "detailsummary",
+    "user_name",
+    "latitude",
+    "description",
+    "user_img",
+    "view",
+    "price",
+    "name",
+    "user_phone",
+    "longitude",
+    "user_uid",
+    "id"
+  ],
+  "sortFields": [
+    "area",
+    "price",
+    "view"
+  ],
+  "facets": [
+
+  ],
+  "titleField": "name",
+  "thumbnailField": "image"
+}
